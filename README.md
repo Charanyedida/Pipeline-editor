@@ -25,7 +25,7 @@
 
 ## 📸 Demo Video
 
-![Pipeline Editor Demo Video]([https://user-images.githubusercontent.com/placeholder/screenshot.png](https://drive.google.com/file/d/1jTv_92Fgs5YvmZKtjPBur5e0T8TOqqJS/view?usp=drive_link)) <!-- Replace with real screenshot URL -->
+[Pipeline Editor Demo Video]([https://user-images.githubusercontent.com/placeholder/screenshot.png](https://drive.google.com/file/d/1jTv_92Fgs5YvmZKtjPBur5e0T8TOqqJS/view?usp=drive_link)) <!-- Replace with real screenshot URL -->
 
 ---
 
